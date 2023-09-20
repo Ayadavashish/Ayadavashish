@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayadavashish
+- 👋 Hi, I’m Ashish Yadav
 - 👀 I’m interested in Python, NumPy, Pandas, Machine Learning, Matplotlib, and TensorFlow
 - 🌱 I’m currently learning Data Science, Data Analytics, Machine Learning 
 - 💞️ I’m looking to collaborate on NLP projects, machine learning, data annotation projects
